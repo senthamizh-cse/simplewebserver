@@ -95,10 +95,7 @@ Testing the webserver.
         httpd = HTTPServer(server_address,myhandler)
         print("Company Revenue  webserver is running...")
         httpd.serve_forever()
-        
-
-        ```
-
+```      
 
 ## OUTPUT:
 ![alt text](<Screenshot 2024-03-19 135428.png>)
